@@ -13,7 +13,8 @@ sites:
     url: https://www.vlive.tv/home/chart?sub=VIDEO&period=HOUR_24&country=ALL
   - name: GitHub
     url: https://github.com/
-
+  - name: F
+    url: https://www.yout/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
